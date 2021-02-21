@@ -74,3 +74,10 @@
 
 // let resultado = multiplicaPorDois(5);
 // console.log(resultado);
+
+//Operadores
+//Aritmeticos
+//operadores atribuição
+//operadores comparação
+//operadores lógicos
+//Operadores Bitwiese
