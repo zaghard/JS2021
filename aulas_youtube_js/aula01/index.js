@@ -61,7 +61,16 @@
 //Tipos de Funções
 //JavaScript tem dois tipos de funções
 //1° realiza uma tarefa, não devolve nada.
-function dizerNome(){
-    console.log('Mauricio');
-}
-dizerNome();
+// function dizerNome(){
+//     console.log('Mauricio');
+// }
+// dizerNome();
+//Função que faz um calculo ou operação e ...
+// retorna algo.
+// function multiplicaPorDois(valor){
+//     return valor * 2;
+// }
+// console.log(multiplicaPorDois(5));
+
+// let resultado = multiplicaPorDois(5);
+// console.log(resultado);
